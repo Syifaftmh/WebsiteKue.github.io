@@ -252,6 +252,7 @@ body {
   background-color: var(--bg);
   border: 1px solid #eee;
   padding-left: 2rem;
+  font-size: 1.7rem;
 }
 
 /* Media Queries*/
